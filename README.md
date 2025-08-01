@@ -128,9 +128,9 @@ Use Postman or Insomnia to:
 
 2. Then POST to `/api/chat/ask` with your question
 
-## Example Link
+## Demo Link
 
-[Example](https://jam.dev/c/b569bc2b-6417-49ad-87ce-5672bbc63a22)
+[Demo](https://jam.dev/c/b569bc2b-6417-49ad-87ce-5672bbc63a22)
 
 ## 📄 License
 MIT License
