@@ -4,9 +4,6 @@
 
 > Ideal for document analysis, contract review, resume Q&A, and building AI-powered document search systems.
 
-## ✅ GitHub Repository Summary (About Section)
-Build a powerful PDF Chat Assistant using Node.js, LangChain, and Google Gemini. Upload PDFs, extract content, and interact with them using natural language queries powered by Gemini LLM. Ideal for document Q&A, contract analysis, resume review, and more.
-
 ---
 
 ## ⭐ Features
