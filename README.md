@@ -137,26 +137,3 @@ LangChain
 Google Generative AI (Gemini)
 
 pdf-parse
-
-## For GitHub Repo Keyword
-
-pdf-chat-assistant
-langchain
-google-gemini
-gemini-llm
-pdf-question-answering
-nodejs-llm
-document-ai
-vector-search
-faiss
-rag
-semantic-search
-ai-chatbot
-gemini-api
-document-qa
-openai-alternative
-pdf-chatbot
-llm-backend
-langchain-nodejs
-ai-pdf-reader
-pdf-chat-node
